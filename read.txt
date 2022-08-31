@@ -1,0 +1,8 @@
+baidu-aip
+pillow
+requests
+json
+运行后输入:test.jpg 翻译后.jpg
+该脚本使用了百度云文字识别高精度位置版
+可到百度智能云官网注册来获取APPID,API_KEY,SECRET_KEY,并填入对应的位置即可使用
+所有文件放在同一文件夹下
